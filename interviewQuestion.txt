@@ -1,0 +1,4 @@
+difference between function and component
+diffenece lies in calling tag
+App()=function
+<App></App>=component
